@@ -34,8 +34,8 @@
     --bs-info: #0dcaf0;
     --bs-warning: #ffc107;
     --bs-danger: #dc3545;
-    --bs-light: #f8f9fa;
-    --bs-dark: #212529;
+    --bs-light: #F0F5FF;
+    --bs-dark: #1B131B;
     --bs-primary-rgb: 240, 95, 64;
     --bs-secondary-rgb: 134, 142, 150;
     --bs-success-rgb: 25, 135, 84;
@@ -14273,7 +14273,7 @@ header.masthead p {
     text-align: center;
     opacity: 0;
     color: #fff;
-    background: rgb(33, 67, 159, .9);
+    background: rgb(38, 103, 255,.85);
     transition: all .2s
 }
 
